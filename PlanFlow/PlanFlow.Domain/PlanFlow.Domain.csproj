@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Billing\Entities\" />
+    <Folder Include="Billing\ValueObjects\" />
+    <Folder Include="Catalog\Entities\" />
+    <Folder Include="Catalog\ValueObjects\" />
+    <Folder Include="Shared\ValueObjects\" />
+    <Folder Include="Subscriptions\Entities\" />
+    <Folder Include="Subscriptions\ValueObjects\" />
+  </ItemGroup>
+
+</Project>
