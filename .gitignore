@@ -52,4 +52,6 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
-/BillFlow/.vs/BillFlow
+/PlanFlow/.vs/PlanFlow
+/PlanFlow/.vs
+/BillFlow/.vs
